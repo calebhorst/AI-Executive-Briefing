@@ -1,0 +1,20 @@
+## Deep Learning and Neural Networks
+```
+Earlier, I talked about the visual cliche of the wire frame brain. I even dismissed it by saying, you know, most of us using A I, we're not trying to model a brain. However, just as machine learning is a subset of A I A type of A I, there's also a smaller subset of machine learning called deep learning. And it uses techniques that are more to do with the brain. These techniques are called neural networks and OK, neural networks aren't really trying to model a human brain. They are inspired by a teeny little part of it. The idea that our brains have billions of neurons and synaptic connections, neurons that have multiple connections to other neurons. And in an artificial neural network, this idea is somewhat modeled in software. So there are simulated neurons, individual nodes that can be connected to and send messages to other simulated neurons. Now, in the past, I used to dive a little deeper into how these neural networks are constructed. And IDE show diagrams talking about the different layers. But to be honest, if your goal is to be a successful and effective end user of A I tools, then knowing the technical details of neural networks really doesn't matter that much. Instead let's focus on this. What's it good at? Well, that's what's given us the best results in very complex problems like image processing, facial recognition, speech recognition, complex game playing deep learning is capable of very impressive, very profound results. But there are downsides because training a deep learning model is much more computationally intensive. It takes much longer than some of the other simpler machine learning methods. And part of that reason is deep learning also typically requires a lot more data to train properly. Now, it's always difficult to say exactly how much data you need to train a machine learning model. It's very situation dependent, but it certainly wouldn't be unusual to expect to have tens of thousands, hundreds of thousands, even millions of examples in order to train a deep learning model well. And because of this, this can also be incredibly expensive. Some of the more advanced deep learning models like the one that chat GP T uses are estimated to cost millions of dollars in computing power alone to just train the model, nothing to do with staffing or development costs, just the computing resources to train the model. And we're going to see more and more of this because these deep learning algorithms do give better results with massive amounts of training data. But they also take immense amounts of computing time and resources to run. But once the model is trained, it can be extremely powerful. So deep learning is often used to understand language, which is what we're going to talk about next.
+```
+
+## Notes
+- **Deep Learning and Neural Networks:**
+  - Subset of machine learning inspired by a fraction of brain functionality—neural networks simulate neuron connections.
+  - Technical construction details of neural networks are less critical for end-users; understanding its applications is more pertinent.
+
+- **Capabilities and Applications:**
+  - Profound results in complex tasks like image processing, facial and speech recognition, and intricate game playing.
+  - Downsides: Resource-intensive—requires significant computational power and extensive data for training.
+  - Training requirements: Often necessitates tens or hundreds of thousands, even millions of examples for effective model training.
+  - Cost considerations: Advanced deep learning models can incur millions of dollars in computing resources for training alone, apart from development expenses.
+
+- **Power and Utilization:**
+  - Despite resource demands, once trained, deep learning models become exceptionally powerful.
+
+The focus here is on deep learning, emphasizing its roots in neural networks, its resource-intensive nature, the need for extensive training data, and the substantial computational expenses associated with training. The text highlights the immense power of deep learning once models are properly trained despite the significant investment required.
